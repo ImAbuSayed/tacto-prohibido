@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tacto-prohibido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tacto prohibido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tacto-prohibido/) |
+| **Get License** | [Secure Licensing Rights for Tacto prohibido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tacto-prohibido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the tension when you're looking my way
+> You got me locked, and now I want you to stay
+> We hide our shadows in the neon and light
+> Baby, let's keep this forbidden touch tonight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
