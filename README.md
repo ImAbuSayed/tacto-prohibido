@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tacto-prohibido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Tacto prohibido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tacto-prohibido/) |
+| **Get License** | [Obtain a Music License for Tacto prohibido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tacto-prohibido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b4892829a35596436494503001958233217cb22c01d25f7d09d5efe419db8ca9` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

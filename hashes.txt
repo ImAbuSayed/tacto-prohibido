@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tacto prohibido
+
+This log tracks the cryptographic history and versioning for the song **Tacto prohibido** (tacto-prohibido).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T06:37:33.053570 | `v1` | `b4892829a35596436494503001958233217cb22c01d25f7d09d5efe419db8ca9` | `eb419bd5de5f27d92c064e713ab21b1ab6fd089b42430623957553cef5d99448` | `2026-06-18_tacto-prohibido-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
